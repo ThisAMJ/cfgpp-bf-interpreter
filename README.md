@@ -1,6 +1,6 @@
 # cfgpp-bf-interpreter
 ![Hello World](https://user-images.githubusercontent.com/69196954/189347944-aa019fe6-cdf1-408b-ac2b-f930f0473c74.gif)
-Brainfuck interpreter written in [SAR]'s config+ language
+Brainfuck interpreter written in [SAR]'s Config+ language for Portal 2.
 
 ## Usage
 
